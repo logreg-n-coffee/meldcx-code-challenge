@@ -4,3 +4,6 @@ node_modules
 .idea
 # Local Files
 files/*
+# Keep the sample file in the folder
+!files/a6a13488-b469-4488-ad94-9c2391bece68
+!files/a6a13488-b469-4488-ad94-9c2391bece68.meta
